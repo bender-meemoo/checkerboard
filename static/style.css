@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+}
+
+.color1 {
+    background-color: red;
+}
+
+.color2 {
+    background-color: black;
+}
+table tr td {
+    height: 100px;
+    width: 100px;
+    border: gray solid 2px;
+    border-style: groove;
+}
